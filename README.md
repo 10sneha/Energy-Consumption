@@ -6,7 +6,7 @@ This repository contains a project that predicts energy consumption using Long S
 Energy consumption prediction is crucial for managing and optimizing energy usage in households and industries. In this project, we utilize LSTM, a type of recurrent neural network (RNN), to predict future energy consumption based on historical data.
 
 ### Dataset
-The Household Power Consumption Dataset from the UCI Machine Learning Repository is used. The dataset contains measurements of electric power consumption in a single household over four years.
+The [Household Power Consumption Dataset](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption) from the UCI Machine Learning Repository is used. The dataset contains measurements of electric power consumption in a single household over four years.
 
 ### Preprocessing Steps
 1. Loading and Cleaning Data: Handle missing values and convert data types.
