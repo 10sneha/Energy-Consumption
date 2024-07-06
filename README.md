@@ -29,7 +29,7 @@ The Household Power Consumption Dataset from the UCI Machine Learning Repository
 ### Results
 The LSTM model achieved the following performance metrics:
 
-RMSE: 0.056
-MAE: 0.029
-MAPE: 18.69%
-R²: 0.9968
+1. RMSE: 0.056
+2. MAE: 0.029
+3. MAPE: 18.69%
+4. R²: 0.9968
