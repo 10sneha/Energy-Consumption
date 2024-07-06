@@ -21,7 +21,7 @@ The Household Power Consumption Dataset from the UCI Machine Learning Repository
 2. Dropout and BatchNormalization layers for regularization.
 3. Dense output layer with a single unit.
    
-*Training:
+* Training:
 
 1. Model trained on historical energy consumption data.
 2. Evaluation using RMSE, MAE, MAPE, and R² metrics.
